@@ -1,2 +1,4 @@
-# DataVisualization2024
-For Data Visualization of Big Data Course @ Fall 2024
+# Fall 2024, Data Visualization of Big Data (巨量資料視覺化, EMI), 3-Credit (Mon., 234), SFSU, CHU
+
+![image](https://github.com/user-attachments/assets/baf2663f-6615-4e29-b34d-d12dd0afc01d)
+
