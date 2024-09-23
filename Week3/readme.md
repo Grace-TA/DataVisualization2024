@@ -18,5 +18,8 @@
 
 ## Lab 3: How To Handle CSV File?
 
+### Read Excel File by Notepad
+![image](https://github.com/user-attachments/assets/56ec8331-870a-4af6-bc3e-b2ff053754b0)
+
 
 
