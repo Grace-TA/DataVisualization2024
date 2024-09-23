@@ -8,6 +8,7 @@
 
 ## Lab 2: Chapter One Practice
 
+### 1. Filter Function
 ![image](https://github.com/user-attachments/assets/724ded66-7ed7-46a0-9903-951ac5802016)
 
 ## Lab 3
