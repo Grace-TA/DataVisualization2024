@@ -11,9 +11,10 @@
 ### 1. Filter Function
 ![image](https://github.com/user-attachments/assets/724ded66-7ed7-46a0-9903-951ac5802016)
 
-### 2.
+### 2. Pivot Table!!!
 ![image](https://github.com/user-attachments/assets/3fc92e96-c747-4920-a8e2-c972dcad9b9e)
 
+![image](https://github.com/user-attachments/assets/f6951524-b4f2-4f84-ace2-8e41774e91b4)
 
 ## Lab 3
 
