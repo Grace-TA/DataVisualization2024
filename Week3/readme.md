@@ -11,5 +11,9 @@
 ### 1. Filter Function
 ![image](https://github.com/user-attachments/assets/724ded66-7ed7-46a0-9903-951ac5802016)
 
+### 2.
+![image](https://github.com/user-attachments/assets/3fc92e96-c747-4920-a8e2-c972dcad9b9e)
+
+
 ## Lab 3
 
