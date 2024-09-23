@@ -24,5 +24,6 @@
 ### 2. Read Output File from Excel in CSV Format by Notepad
 ![image](https://github.com/user-attachments/assets/69db7815-83c2-4e83-9739-25b83c1070ef)
 
+### 3. Read Text File by Excel
 ![image](https://github.com/user-attachments/assets/2e408b6d-37aa-4973-9178-d0f3be2b05c4)
 
