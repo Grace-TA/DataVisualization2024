@@ -6,8 +6,9 @@
 
 ![image](https://github.com/user-attachments/assets/1224dd2b-9306-40e0-897b-b9e3a840f22c)
 
-## Lab 2: 
+## Lab 2: Chapter One Practice
 
+![image](https://github.com/user-attachments/assets/724ded66-7ed7-46a0-9903-951ac5802016)
 
 ## Lab 3
 
