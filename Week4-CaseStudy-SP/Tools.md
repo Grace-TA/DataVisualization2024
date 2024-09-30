@@ -6,3 +6,6 @@ A Gantt chart is a visual project management tool that illustrates a project's t
 
 ![image](https://github.com/user-attachments/assets/f904492e-b1ea-4b29-8a26-e23e232cfdd9)
 
+## A Rough Layout of The Dashboard
+
+![image](https://github.com/user-attachments/assets/3f039f1b-e7c2-4fd3-bbd2-acbc6942afec)
