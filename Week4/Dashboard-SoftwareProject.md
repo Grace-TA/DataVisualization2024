@@ -46,4 +46,12 @@ A software project is a structured effort to design, develop, and deploy a softw
 
 ![image](https://github.com/user-attachments/assets/cb88cb25-9081-4dd4-ae9c-5260393b6012)
 
+## Others
+
+![image](https://github.com/user-attachments/assets/da7bea46-041a-494e-b61c-b4baef82bc2a)
+
+![image](https://github.com/user-attachments/assets/9aa73900-83fa-4319-a86f-aec6cc8ccdce)
+
+
+
 
