@@ -10,6 +10,8 @@ English: A case study is an in-depth analysis of a specific real-world situation
 
 Traditional Chinese: 個案研究是對特定真實情境或問題的深入分析，旨在理解其複雜性、尋找解決方案並獲取見解。它廣泛應用於教育、商業和研究領域，以展示理論的實際應用並促進批判性思維。
 
+![image](https://github.com/user-attachments/assets/a07cb7e6-dd82-4e5b-a99e-c7c6447cc6b3)
+
 ## Monitoring?
 
 
