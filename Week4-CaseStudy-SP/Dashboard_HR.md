@@ -10,4 +10,7 @@
 
 ![image](https://github.com/user-attachments/assets/e6991410-a777-4539-abf1-868f704dca17)
 
+## B. Example of Dashboard
+
+![image](https://github.com/user-attachments/assets/cf2b01d0-01e6-423c-8619-7770e8cb96ab)
 
