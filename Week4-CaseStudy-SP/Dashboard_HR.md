@@ -17,3 +17,15 @@
 ## C. Your Show Time
 
 ![image](https://github.com/user-attachments/assets/40d5b9a0-82ca-4ce7-968e-fd54124cb920)
+
+## D. Top 5 Key Takeaway?
+
+### 1. I know how to find jobs by 104 web site
+
+### 2. I have prepared and provided a self introduction with video recording; finally, uploaded the video to YouTbue channel to complete my homework.
+
+### 3. Understood the dash application for HR (e.g., cost in recruiting)
+
+### 4. Practiced how to create the charts in the dashboard (e.g., Recruier Salary)
+
+### 5. It's a good way for me to learn deeply and usefully by GitHub page.
