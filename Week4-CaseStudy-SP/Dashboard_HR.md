@@ -1,6 +1,6 @@
 # Dashboard Application for Human Resources
 
-## A. Plase find out 3 jobs from 104 web site with the reasons you choose.
+## A. Plase find out 2 jobs from 104 web site with the reasons you choose.
 
 ### 1. *加州矽谷公司招募* System Engineer, Source: https://www.104.com.tw/job/888hv?jobsource=index_s
 
