@@ -14,3 +14,6 @@
 
 ![image](https://github.com/user-attachments/assets/cf2b01d0-01e6-423c-8619-7770e8cb96ab)
 
+## C. Your Show Time
+
+![image](https://github.com/user-attachments/assets/40d5b9a0-82ca-4ce7-968e-fd54124cb920)
