@@ -52,13 +52,14 @@ Note: 較高的比率表示公司依賴更多的債務，可能意味著風險�
 ### 6. Cash Conversion?
 measures the time it takes for a company **to convert its investments in inventory and other resources into cash flows from sales**.
 
+
 Note: 較短的現金週轉週期表示公司能夠更快地將資源轉換為現金，這通常對於公司的流動性較有利；較長的週期可能表示公司在管理存貨、銷售或應付帳款方面效率較低。
 
 ### 7. Net Margin?
 
 Shows the percentage of revenue that remains as profit after all expenses, taxes, and interest have been deducted. It reflects the overall profitability of a company.
 
-淨利率 用來顯示公司在扣除所有費用、稅金及利息後，收入中剩餘的利潤百分比
+Note: 淨利率 用來顯示公司在扣除所有費用、稅金及利息後，收入中剩餘的利潤百分比
 
 ### 8. Revenue Last Five Years?
 
