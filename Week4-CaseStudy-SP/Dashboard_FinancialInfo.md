@@ -78,14 +78,15 @@ Note: 穩定或上升的比率表明公司維持或改善了其流動性；下�
 
 ## B. Dashboard
 
-### Layout
+### 1. Layout
 
 ![image](https://github.com/user-attachments/assets/a2d69d16-d0b5-4dfc-a316-9adfdbb6ad1f)
 
-### Result
+### 2. Result
 
 ![image](https://github.com/user-attachments/assets/d5c4026e-3585-4c46-a3fc-46696c309af9)
 
+### 3. Practice
 
 
 
