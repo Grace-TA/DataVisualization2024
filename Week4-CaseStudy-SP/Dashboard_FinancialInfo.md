@@ -20,18 +20,23 @@ Current Liabilities are obligations the company needs to settle within a year, s
 Current Liabilities are obligations the company needs to settle within a year, such as accounts payable, short-term loans, and other short-term debts.
 
 ### 3. Quick Ratio?
+excludes inventory and prepaid expenses because these assets may take longer to convert into cash; therefore, the company has enough liquid assets to cover all of its current liabilities without relying on the sale of inventory.
+
+Note: 速動比率 就像只計算錢包裡的 現金 來確定你是否有足夠的錢應付一天的開銷，而排除流動性較低的支付方式（如禮品卡或必須先出售的物品）。這能給你一個更清晰的判斷，了解你能否應對即時需求。
 
 ### 4. Gross Margin?
 
 ### 5. Debt-to-equity?
 
-### 6. Cash Conversion
+### 6. Cash Conversion?
 
-### 7. Net Margin
+### 7. Net Margin?
 
-### 8. Revenu Last Five Years?
+### 8. Revenue Last Five Years?
 
-### 9. Current/Quick Last Five Years
+### 9. Current/Quick Last Five Years?
+
+
 
 
 
