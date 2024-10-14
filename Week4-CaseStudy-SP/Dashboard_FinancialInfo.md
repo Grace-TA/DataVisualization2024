@@ -5,7 +5,7 @@
 ### 1. Income Statement Waterfall? 
 An Income Statement Waterfall is a financial presentation method that displays the components of an income statement step by step, often using a waterfall chart to show how each line item affects the overall financial performance of the company. It typically begins with revenue at the top and moves through various expenses (like cost of goods sold, operating expenses, taxes) until arriving at the net income (the "bottom line").
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/d45ea0bf-b94d-41ef-8b16-4c8037a66d65)
 
 
 ### 2.  Current Ratio?
