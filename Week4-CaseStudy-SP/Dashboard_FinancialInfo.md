@@ -5,6 +5,9 @@
 ### 1. Income Statement Waterfall? 
 An Income Statement Waterfall is a financial presentation method that displays the components of an income statement step by step, often using a waterfall chart to show how each line item affects the overall financial performance of the company. It typically begins with revenue at the top and moves through various expenses (like cost of goods sold, operating expenses, taxes) until arriving at the net income (the "bottom line").
 
+![Uploading image.png…]()
+
+
 ### 2.  Current Ratio?
 The Current Ratio is a financial metric used to measure a company's ability to meet its short-term obligations with its short-term assets. It is one of the liquidity ratios that investors and creditors use to assess how well a company can pay off its current liabilities (debts due within one year) using its current assets (assets expected to be converted into cash within one year).
 
