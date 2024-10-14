@@ -88,6 +88,7 @@ Note: 穩定或上升的比率表明公司維持或改善了其流動性；下�
 
 ### 3. Practice
 
+![image](https://github.com/user-attachments/assets/64fe4d7e-d43a-473c-896a-ee67df5b209f)
 
 
 
