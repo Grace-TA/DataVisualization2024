@@ -1,6 +1,6 @@
 # Dashboard Application for Financial Information
 
-## Termelogolies
+## A. Termelogolies
 
 ### ??
 
