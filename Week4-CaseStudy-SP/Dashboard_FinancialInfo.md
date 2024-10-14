@@ -76,6 +76,16 @@ Tracking these liquidity ratios over time helps assess the company’s ability t
 
 Note: 穩定或上升的比率表明公司維持或改善了其流動性；下降的比率可能顯示出公司流動性問題，使得公司更難以應對短期負債。
 
+## B. Dashboard
+
+### Layout
+
+![image](https://github.com/user-attachments/assets/a2d69d16-d0b5-4dfc-a316-9adfdbb6ad1f)
+
+### Result
+
+![image](https://github.com/user-attachments/assets/d5c4026e-3585-4c46-a3fc-46696c309af9)
+
 
 
 
