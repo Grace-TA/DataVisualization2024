@@ -1,0 +1,14 @@
+# Organizing Data for Dashboards
+
+## A. What Is Data Cleaning? What Is Database?
+
+### Data Cleaning? Data cleaning is the process of improving data quality by detecting and correcting inaccuracies, inconsistencies, and errors in a dataset. 
+
+![image](https://github.com/user-attachments/assets/d2b32ee0-600c-433f-900f-6ed2e8ecea0c)
+
+### Database? The database is like a huge library, where all the information is neatly stored on the bookshelves and can be accessed at any time.
+
+![image](https://github.com/user-attachments/assets/9d75caa8-cd55-4f52-a60f-f96a58c4b0ce)
+
+
+
