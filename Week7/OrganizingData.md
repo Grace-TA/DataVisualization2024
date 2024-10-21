@@ -15,3 +15,7 @@
 
 ![image](https://github.com/user-attachments/assets/d67b7548-e81f-4230-b50d-e5879a3ab76f)
 
+## B. Difference between Excel and Access?
+
+![image](https://github.com/user-attachments/assets/c4a5ba51-c731-417c-9847-205a71f83f1e)
+
