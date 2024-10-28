@@ -37,3 +37,7 @@ We use Power Query because it simplifies the **ETL (Extract, Transform, Load)** 
 ### 2. Data Merging
 ![image](https://github.com/user-attachments/assets/9ceaef55-3ef4-4c36-a3ce-a5e17e214f3c)
 
+### 3. The GUI of Power Query
+![image](https://github.com/user-attachments/assets/157d6e72-7ab7-427c-b085-3748c1c4a5de)
+
+
