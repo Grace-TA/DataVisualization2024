@@ -40,4 +40,8 @@ We use Power Query because it simplifies the **ETL (Extract, Transform, Load)** 
 ### 3. The GUI of Power Query
 ![image](https://github.com/user-attachments/assets/157d6e72-7ab7-427c-b085-3748c1c4a5de)
 
+### 4. Pivot Table 
+![image](https://github.com/user-attachments/assets/b7a96483-5067-4ffa-a109-8ff6183e2302)
+
+
 
