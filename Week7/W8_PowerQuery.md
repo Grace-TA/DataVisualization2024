@@ -1,4 +1,4 @@
-# Power Query?
+# Power Query - pulls, cleans, and reshapes data from various sources to fit needs.
 
 ## What is Power Query?
 
@@ -15,6 +15,8 @@ Prompt: "Please introduce what is Power Query in 150 words with metaphor approac
 ![image](https://github.com/user-attachments/assets/7ee85e6b-c411-479f-97e6-3b43815d1a68)
 
 ## Applications of Power Query
+
+Prompt: "Please introduce classic 3 applications of Power Query, and why we need to use it within 300 words."
 
 Power Query is invaluable for three classic applications in data work: data cleaning, data merging, and transformation tasks.
 
