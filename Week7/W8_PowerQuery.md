@@ -46,3 +46,5 @@ We use Power Query because it simplifies the **ETL (Extract, Transform, Load)** 
 ### 5. Data Table Linking, Merging, and Appending
 ![image](https://github.com/user-attachments/assets/18f4a051-9a3e-48f5-b99f-f7883f113890)
 
+### 6. Files Merging and Linking
+![image](https://github.com/user-attachments/assets/1e9b8bec-3b75-468a-a0fc-96e4bd813eb3)
