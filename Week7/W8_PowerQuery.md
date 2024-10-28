@@ -30,7 +30,7 @@ We use Power Query because it simplifies the **ETL (Extract, Transform, Load)** 
 
 ## C. Handson Lab
 
-### 1. Download the prctice files
+### 1. Download the practice files
 
 ![image](https://github.com/user-attachments/assets/6ec0b838-792d-432f-9386-fb901e4f6540)
 
