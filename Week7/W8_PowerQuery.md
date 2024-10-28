@@ -18,8 +18,6 @@ Prompt: "Please introduce what is Power Query in 150 words with metaphor approac
 
 Prompt: "Please introduce classic 3 applications of Power Query, and why we need to use it within 300 words."
 
-Power Query is invaluable for three classic applications in data work: data cleaning, data merging, and transformation tasks.
-
 Power Query is invaluable for three classic applications in data work: **data cleaning, data merging, and transformation tasks**.
 
 1. **Data Cleaning**: Often, raw data is cluttered with inconsistencies, duplicate values, or missing information, making analysis difficult. Power Query acts like a powerful data "scrubber," automating repetitive cleaning tasks like removing duplicates, filling missing values, and standardizing formats. This eliminates hours of manual work and helps maintain data accuracy, which is essential for dependable analysis.
