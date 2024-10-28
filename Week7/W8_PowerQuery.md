@@ -31,3 +31,5 @@ Power Query is invaluable for three classic applications in data work: **data cl
 We use Power Query because it simplifies the **ETL (Extract, Transform, Load)** process, allowing users to handle complex data tasks with an intuitive, visual interface. It’s essential in business environments where data from multiple sources needs preparation and analysis. With Power Query, users not only save time but also establish repeatable workflows that adapt seamlessly to changing data, ensuring efficiency and reliability.
 
 ## C. Handson Lab
+
+
