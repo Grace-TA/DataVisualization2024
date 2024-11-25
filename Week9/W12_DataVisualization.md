@@ -15,3 +15,7 @@
 
 ### Exp 1.1: plot, title, label X, label Y, legend
 ![image](https://github.com/user-attachments/assets/d1011b14-7d6b-4fa4-805c-a33440b59024)
+
+
+### Exp 1.2:Import external data
+![image](https://github.com/user-attachments/assets/932a9fda-90ed-43b9-b778-ca1106cbb3db)
