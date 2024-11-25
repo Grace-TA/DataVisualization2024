@@ -13,3 +13,5 @@
 
 ## Lab 1: Lab 1 Introduction to Data Visulation with Python
 
+### 1.1 plot, title, label X, label Y, legend
+![image](https://github.com/user-attachments/assets/d1011b14-7d6b-4fa4-805c-a33440b59024)
