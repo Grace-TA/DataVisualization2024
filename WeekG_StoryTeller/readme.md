@@ -1,6 +1,6 @@
 # Tell a Story with Visualization, W16-W17
 
-## W16 Tell a Story with Visualization?
+## W16 (WG) Tell a Story with Visualization?
 
 ### What is “Sorytelling with Visualization”?
 
@@ -10,6 +10,6 @@
 
 
 
-## W 17 Telling a Story with Data Visualization for OYO Hotel
+## W 17 (WH) Case Study: Telling a Story with Data Visualization for OYO Hotel
 
 ![image](https://github.com/user-attachments/assets/1dab3e1a-03a4-4f27-9b5d-9a2f9b7e867d)
