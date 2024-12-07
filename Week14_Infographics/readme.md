@@ -7,7 +7,7 @@
 
 ![image](https://github.com/user-attachments/assets/e0132b6c-b9b1-4581-a3bb-b95b1febe3d3)
 
-## B. How to use shapes to create infographics?
+## B. How to use shapes to create infographics? Plan
 
 ### Lab 1: Review to Data Visualization Basics with Python
 
