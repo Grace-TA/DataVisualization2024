@@ -18,3 +18,23 @@
 
 ## Lab 5: Advanced Infographic Design with Custom Layouts and Annotations
 ![image](https://github.com/user-attachments/assets/b4aae001-f6d3-4836-9902-fed0e611b8d4)
+
+## Lab 6: Five favirotes chart from OYO_Rooms_EDA
+
+### 1. Correlation of Features
+![image](https://github.com/user-attachments/assets/ffb26c47-d79f-40ee-974d-c53504784119)
+
+### 2. Relationships between numerical columns
+![image](https://github.com/user-attachments/assets/67e92285-adb3-4a1a-9726-d595c661e96e)
+
+### 3. Average Price by Location
+![image](https://github.com/user-attachments/assets/24f6a10e-c2fb-4a6c-8ce1-7fa1da348d95)
+
+### 4. Average No Of Hotels by Location/City
+![image](https://github.com/user-attachments/assets/977e10b3-7c04-48d3-877e-cbfcaf1051b1)
+
+### 5. Average Prices by City
+![image](https://github.com/user-attachments/assets/0cad7a07-7b93-4c08-8786-5a41ba86a2aa)
+
+
+
